@@ -1,3 +1,4 @@
+<img width="960" height="540" alt="Screenshot 2026-06-05 090628" src="https://github.com/user-attachments/assets/dd634054-e4b7-4a44-97db-f92969013e3c" />
 ComfyUI Batch Runner
 A simple, standalone desktop tool for batch processing folders of images through any ComfyUI workflow — one image at a time, automatically, without touching the ComfyUI interface.
 
